@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "5yethd",
+      "price": "dgfcv",
+      "descr": "tfbcv",
+      "image": "gdfb",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "username": "collapse",
+      "password": "1234",
+      "id": 1
+    }
+  ]
+}
